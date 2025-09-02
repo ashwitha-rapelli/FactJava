@@ -15,5 +15,6 @@ public class App
         	f=f*i;
         }
         System.out.println(f);
+        System.out.println("Maven java project");
     }
 }
